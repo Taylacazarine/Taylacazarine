@@ -8,12 +8,12 @@
 ###
 
 <p align="center">
-Meu nome é Tayla Cazarine<br>
 🎓 Estudante de ADS<br>
-💻 Atualmente estudando Java e lógica de programação<br>
-🚀 Buscando minha primeira oportunidade na área da tecnologia<br>
-📚 Aprendendo um pouco todos os dias para evoluir como desenvolvedora<br>
-☕ Amo transformar ideias em projetos e desafios em aprendizado
+💻 Atualmente estudando Java, lógica de programação e fundamentos de suporte técnico em TI<br>
+🖥️ Buscando minha primeira oportunidade na área de Suporte Técnico / Help Desk<br>
+🚀 Aprendendo um pouco todos os dias para evoluir como profissional de tecnologia<br>
+📚 Tenho interesse em manutenção, atendimento ao usuário, resolução de problemas e infraestrutura básica<br>
+☕ Amo transformar desafios em aprendizado e encontrar soluções através da tecnologia
 </p>
 
 ###
@@ -96,7 +96,6 @@ Meu nome é Tayla Cazarine<br>
 🌸 Atualmente aprendendo:<br><br>
 
 • Java<br>
-• Python<br>
 • Git & GitHub
 </p>
 
