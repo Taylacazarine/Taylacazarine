@@ -21,12 +21,12 @@
 <div align="center">
   <img 
     height="150" 
-    src="https://github-readme-stats.vercel.app/api?username=Taylacazarine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Taylacazarine" 
   />
 
   <img 
     height="150" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taylacazarine&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Taylacazarine&layout=compact" 
   />
 </div>
 
@@ -104,8 +104,7 @@
 <br clear="both">
 
 <img 
-  src="https://raw.githubusercontent.com/Taylacazarine/Taylacazarine/snake-output/snake.svg" 
-  alt="Snake animation" 
+  src="https://raw.githubusercontent.com/Taylacazarine/Taylacazarine/main/assets/snake.svg" 
 />
 
 ###
