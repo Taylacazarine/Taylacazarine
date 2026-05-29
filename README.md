@@ -1,107 +1,120 @@
-<h1 align="center">⚡ Tayla Cazarine ⚡</h1>
+
+<h2 align="center">⚡ TAYLA CAZARINE ⚡</h2>
+
+###
+
+<p align="center">SOBRE MIM 🌸</p>
+
+###
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Bem-vindo(a)+ao+meu+perfil!;Estudando+Java+e+desenvolvimento;Futura+desenvolvedora+backend;Construindo+meu+futuro+na+tecnologia+💖">
+Meu nome é Tayla Cazarine<br>
+🎓 Estudante de ADS<br>
+💻 Atualmente estudando Java e lógica de programação<br>
+🚀 Buscando minha primeira oportunidade na área da tecnologia<br>
+📚 Aprendendo um pouco todos os dias para evoluir como desenvolvedora<br>
+☕ Amo transformar ideias em projetos e desafios em aprendizado
 </p>
 
----
+###
 
 <div align="center">
+  <img 
+    height="150" 
+    src="https://github-readme-stats.vercel.app/api?username=Taylacazarine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" 
+  />
 
-<img src="https://raw.githubusercontent.com/Taylacazarine/Taylacazarine/refs/heads/main/video.gif">
-
+  <img 
+    height="150" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taylacazarine&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" 
+  />
 </div>
 
----
+###
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
+  <img width="15" />
 
-## 🌸 Sobre mim
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
+  <img width="15" />
 
-✨ Meu nome é Tayla Cazarine  
-🎓 Estudante de ADS  
-💻 Atualmente estudando Java e lógica de programação  
-🚀 Buscando minha primeira oportunidade na área da tecnologia  
-📚 Aprendendo um pouco todos os dias para evoluir como desenvolvedora  
-☕ Amo transformar ideias em projetos e desafios em aprendizado  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35" alt="javascript logo" />
+  <img width="15" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo" />
+  <img width="15" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="35" alt="intellij logo" />
+  <img width="15" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="35" alt="git logo" />
 </div>
 
----
+###
 
 <div align="center">
+  <a href="https://discord.com/users/1058609070904447136" target="_blank">
+    <img 
+      src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" 
+      height="35" 
+    />
+  </a>
 
-## 💖 Tecnologias que estou aprendendo
+  <a href="mailto:taylacazarine@gmail.com" target="_blank">
+    <img 
+      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" 
+      height="35" 
+    />
+  </a>
 
-<img align="center" alt="Java" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-
-<img align="center" alt="HTML" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-
-<img align="center" alt="CSS" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-
-<img align="center" alt="Python" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-
-<img align="center" alt="Git" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-
-<img align="center" alt="Github" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-
+  <a href="https://www.linkedin.com/in/taylacazarine" target="_blank">
+    <img 
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" 
+      height="35" 
+    />
+  </a>
 </div>
 
----
+###
+
+<p align="center">
+☕ <i>Coding my future</i> 🎀
+</p>
+
+###
+
+<img 
+  align="right" 
+  height="150" 
+  src="https://raw.githubusercontent.com/Taylacazarine/Taylacazarine/main/video.gif" 
+/>
+
+###
+
+<p align="left">
+🌸 Atualmente aprendendo:<br><br>
+
+• Java<br>
+• Python<br>
+• Git & GitHub
+</p>
+
+###
+
+<br clear="both">
+
+<img 
+  src="https://raw.githubusercontent.com/Taylacazarine/Taylacazarine/snake-output/snake.svg" 
+  alt="Snake animation" 
+/>
+
+###
 
 <div align="center">
-
-## 💗 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Taylacazarine&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Taylacazarine&layout=compact&theme=radical&hide_border=true"/>
-
+  <img 
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=ff69b4"
+  />
 </div>
 
----
-
-<div align="center">
-
-## 🔥 Sequência de contribuições
-
-<img src="https://streak-stats.demolab.com?user=Taylacazarine&theme=radical&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FFFFFF">
-
-</div>
-
----
-
-<div align="center">
-
-## 🌷 Contato
-
-<a href="mailto:taylacazarine@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## ✨ Um pouco sobre minha jornada
-
-Atualmente estou focada em aprender programação e construir projetos para evoluir minhas habilidades.  
-Mesmo estando no início da jornada, estou sempre buscando aprender algo novo, praticar e melhorar a cada dia. 💖
-
-Acredito que a tecnologia pode transformar vidas, e quero crescer na área criando soluções, aprendendo constantemente e conquistando meu espaço como desenvolvedora.
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
-
-</div>
