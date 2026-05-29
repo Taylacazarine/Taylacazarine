@@ -31,7 +31,7 @@ Meu nome é Tayla Cazarine<br>
 
 ---
 
-<h3 align="center">💻 TECNOLOGIAS 💻</h3>
+<h3 align="center">💻 TECNOLOGIAS </h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,vscode,idea,git,github" />
@@ -39,7 +39,7 @@ Meu nome é Tayla Cazarine<br>
 
 ---
 
-<h3 align="center">🌐 CONTATO 🌐</h3>
+<h3 align="center"> 📩 CONTATO </h3>
 
 <div align="center">
   <a href="https://discord.com/users/1058609070904447136" target="_blank">
